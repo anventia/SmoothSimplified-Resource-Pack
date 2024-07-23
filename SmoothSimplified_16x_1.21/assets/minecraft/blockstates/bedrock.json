@@ -1,5 +1,9 @@
 {
     "variants": {
-        "normal": { "model": "block/bedrock" }
+      "": [
+        {
+          "model": "minecraft:block/bedrock"
+        }
+      ]
     }
-}
+  }
